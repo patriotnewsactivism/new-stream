@@ -1,0 +1,8 @@
+{
+  "name": "Web Switcher Studio",
+  "description": "A browser-based live production switcher for mixing camera, images, and video with layouts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
